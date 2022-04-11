@@ -4,3 +4,4 @@ some changes made on the dev branch
 this line fixes a bug 
 even more
 will rebase keep up??
+here's the 6th file editing things
